@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "Tuan8_PhamThiHanh",
+    "slug": "Tuan8_PhamThiHanh",
+    "version": "1.0.0",
+    "sdkVersion": "54.0.0",
+    "platforms": ["ios", "android"],
+    "plugins": ["expo-sqlite", "expo-router"]
+  }
+}
